@@ -4,7 +4,7 @@ This repository showcases our implementations for the coding assignments of the 
 
 ## Assignments Overview
 
-| Assignment # | Assignment Topic       | Public Hard Baseline passed                                  | Private Hard baseline passed |
+| Assignment # | Assignment Topic       | Public hard baseline passed                                  | Private hard baseline passed |
 |--------------|----------------------------|------------------------------------------------------------|-------|
 | 1            | Ridge Regression, Cross Validation    | Yes | Yes |
 | 2            | Gaussian Processes | Yes | Yes |
